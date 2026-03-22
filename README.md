@@ -27,6 +27,17 @@ No more disconnected prompts.
 
 You now have a working story system.
 
+## First-Use Onboarding (Antigravity)
+
+If this is your first time opening Narrative Engine, start here:
+
+- `onboarding/README.md` - entry point
+- `onboarding/FIRST_STORY_HUMAN.md` - step-by-step guide for writers
+- `onboarding/FIRST_STORY_AI.md` - protocol for AI assistants
+- `onboarding/ANTIGRAVITY_PROMPTS.md` - copy-paste prompts for first use
+
+This onboarding flow gets you from blank page to first scene in under 10 minutes.
+
 ## 🧰 Recommended tools
 
 ### 🧠 Antigravity (recommended)
@@ -230,9 +241,10 @@ Narrative Engine is designed for AI-assisted workflows. Keep edits modular and g
 1. Read [`PROJECT_BIBLE.md`](PROJECT_BIBLE.md).
 2. Read [`STORY_TECHNIQUES.md`](STORY_TECHNIQUES.md).
 3. Read [`AI_COLLABORATION.md`](AI_COLLABORATION.md).
-4. Copy template files from `templates/` into your working modules.
-5. Explore `examples/full-film-mini/` for a compact end-to-end example from premise to scene.
-6. Start with `story/logline.md` and commit your first concept baseline.
+4. Follow [`onboarding/README.md`](onboarding/README.md) for first-use setup in Antigravity.
+5. Copy template files from `templates/` into your working modules.
+6. Explore `examples/full-film-mini/` for a compact end-to-end example from premise to scene.
+7. Start with `story/logline.md` and commit your first concept baseline.
 
 ## How to Use Narrative Engine
 
