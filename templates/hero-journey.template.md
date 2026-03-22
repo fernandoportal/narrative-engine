@@ -1,0 +1,19 @@
+# Hero's Journey Template
+
+## 1. Ordinary World
+## 2. Call to Adventure
+## 3. Refusal of the Call
+## 4. Meeting the Mentor
+## 5. Crossing the Threshold
+## 6. Tests, Allies, Enemies
+## 7. Approach to the Inmost Cave
+## 8. Ordeal
+## 9. Reward
+## 10. The Road Back
+## 11. Resurrection
+## 12. Return with the Elixir
+
+For each stage, add:
+- Scene or sequence reference
+- Internal change
+- External consequence

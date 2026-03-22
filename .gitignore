@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Build/output artifacts
+dist/
+build/
+out/
+
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Test and coverage artifacts
+coverage/
+.nyc_output/
+
+# Python cache
+__pycache__/
+*.pyc
