@@ -1,6 +1,7 @@
 # First-Use Onboarding
 
-This folder is the fastest way to start Narrative Engine for the first time in Antigravity.
+This folder is the fastest way to start Narrative Engine for the first time in
+Antigravity.
 
 ## Choose your path
 

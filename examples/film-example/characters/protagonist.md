@@ -6,7 +6,8 @@ Protagonist
 
 ## Wound
 
-She carries unresolved guilt from a safety failure she believes she could have prevented.
+She carries unresolved guilt from a safety failure she believes she could have
+prevented.
 
 ## Want
 

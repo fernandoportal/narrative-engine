@@ -11,4 +11,6 @@ Track why character decisions are emotionally believable.
 
 ## Application
 
-For every major turn in `structure/beat-sheet.md`, note the emotional trigger and resulting action. If a turn feels forced, revise motivation here before rewriting scenes.
+For every major turn in `structure/beat-sheet.md`, note the emotional trigger
+and resulting action. If a turn feels forced, revise motivation here before
+rewriting scenes.

@@ -49,8 +49,7 @@ Write one short scene:
 
 ## Step 5 - Save version
 
-Ask your AI assistant:
-`save my narrative changes`
+Ask your AI assistant: `save my narrative changes`
 
 It should classify files, branch if needed, commit, and push.
 

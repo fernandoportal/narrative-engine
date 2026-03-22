@@ -1,12 +1,15 @@
 # Story Techniques in Narrative Engine
 
-This guide explains the built-in narrative techniques used by Narrative Engine. Each section includes what the technique is, why it matters, and how to apply it in this repository.
+This guide explains the built-in narrative techniques used by Narrative Engine.
+Each section includes what the technique is, why it matters, and how to apply it
+in this repository.
 
 ## Three Act Structure
 
 **What it is:** A macro story shape: setup, confrontation, resolution.
 
-**Why it matters:** Gives audiences orientation and momentum while allowing creativity inside a familiar rhythm.
+**Why it matters:** Gives audiences orientation and momentum while allowing
+creativity inside a familiar rhythm.
 
 **How to use in this repo:**
 
@@ -16,7 +19,8 @@ This guide explains the built-in narrative techniques used by Narrative Engine. 
 
 ## Save the Cat
 
-**What it is:** A beat-driven model emphasizing early empathy, escalating stakes, and decisive finale movement.
+**What it is:** A beat-driven model emphasizing early empathy, escalating
+stakes, and decisive finale movement.
 
 **Why it matters:** Prevents drift by forcing clear progression checkpoints.
 
@@ -28,9 +32,11 @@ This guide explains the built-in narrative techniques used by Narrative Engine. 
 
 ## Hero's Journey
 
-**What it is:** An archetypal transformation path from ordinary world to changed identity.
+**What it is:** An archetypal transformation path from ordinary world to changed
+identity.
 
-**Why it matters:** Useful for mythic, adventure, or identity-driven stories requiring inner and outer transformation.
+**Why it matters:** Useful for mythic, adventure, or identity-driven stories
+requiring inner and outer transformation.
 
 **How to use in this repo:**
 
@@ -42,7 +48,8 @@ This guide explains the built-in narrative techniques used by Narrative Engine. 
 
 **What it is:** A causal chain framework where each event produces consequence.
 
-**Why it matters:** Prevents episodic “and then” plotting and improves dramatic inevitability.
+**Why it matters:** Prevents episodic “and then” plotting and improves dramatic
+inevitability.
 
 **How to use in this repo:**
 
@@ -68,19 +75,23 @@ This guide explains the built-in narrative techniques used by Narrative Engine. 
 
 ## Internal vs External Conflict
 
-**What it is:** Internal conflict is psychological; external conflict is situational/oppositional.
+**What it is:** Internal conflict is psychological; external conflict is
+situational/oppositional.
 
-**Why it matters:** Strong narratives force both conflicts to collide and compound.
+**Why it matters:** Strong narratives force both conflicts to collide and
+compound.
 
 **How to use in this repo:**
 
 - Document internal drivers in `characters/character-psychology.md`
-- Track external pressure in `structure/ticking-clock.md` and `structure/pinch-points.md`
+- Track external pressure in `structure/ticking-clock.md` and
+  `structure/pinch-points.md`
 - Ensure scenes show both levels in `screenplay/selected-scenes/`
 
 ## Pinch Points
 
-**What it is:** Moments that remind the audience of antagonistic force and stakes.
+**What it is:** Moments that remind the audience of antagonistic force and
+stakes.
 
 **Why it matters:** Sustains tension between larger turning points.
 
@@ -92,9 +103,11 @@ This guide explains the built-in narrative techniques used by Narrative Engine. 
 
 ## Midpoint Shift
 
-**What it is:** A central turning event that redefines stakes, context, or objective.
+**What it is:** A central turning event that redefines stakes, context, or
+objective.
 
-**Why it matters:** Prevents second act stagnation and reframes audience expectation.
+**Why it matters:** Prevents second act stagnation and reframes audience
+expectation.
 
 **How to use in this repo:**
 
@@ -104,9 +117,11 @@ This guide explains the built-in narrative techniques used by Narrative Engine. 
 
 ## All Is Lost
 
-**What it is:** A collapse moment where the old strategy fails and cost is undeniable.
+**What it is:** A collapse moment where the old strategy fails and cost is
+undeniable.
 
-**Why it matters:** Creates emotional low point required for authentic transformation.
+**Why it matters:** Creates emotional low point required for authentic
+transformation.
 
 **How to use in this repo:**
 
@@ -116,7 +131,8 @@ This guide explains the built-in narrative techniques used by Narrative Engine. 
 
 ## Setup and Payoff
 
-**What it is:** Planting narrative information early and delivering meaningful return later.
+**What it is:** Planting narrative information early and delivering meaningful
+return later.
 
 **Why it matters:** Produces cohesion, audience trust, and emotional reward.
 
@@ -128,7 +144,8 @@ This guide explains the built-in narrative techniques used by Narrative Engine. 
 
 ## Foreshadowing
 
-**What it is:** Controlled hints that prepare future turns without spoiling them.
+**What it is:** Controlled hints that prepare future turns without spoiling
+them.
 
 **Why it matters:** Increases rewatch/read value and reduces abrupt twists.
 
@@ -140,9 +157,11 @@ This guide explains the built-in narrative techniques used by Narrative Engine. 
 
 ## Visual Storytelling
 
-**What it is:** Communicating narrative through action, composition, props, and environment rather than exposition.
+**What it is:** Communicating narrative through action, composition, props, and
+environment rather than exposition.
 
-**Why it matters:** Film/series/graphic mediums reward observable behavior over explanation.
+**Why it matters:** Film/series/graphic mediums reward observable behavior over
+explanation.
 
 **How to use in this repo:**
 
@@ -152,7 +171,8 @@ This guide explains the built-in narrative techniques used by Narrative Engine. 
 
 ## Parallel Storylines
 
-**What it is:** Multiple threads that contrast, mirror, or pressure the main arc.
+**What it is:** Multiple threads that contrast, mirror, or pressure the main
+arc.
 
 **Why it matters:** Expands thematic depth and broadens narrative scale.
 
@@ -164,7 +184,8 @@ This guide explains the built-in narrative techniques used by Narrative Engine. 
 
 ## Emotional Mirroring
 
-**What it is:** Secondary characters or subplots reflecting the protagonist’s core dilemma.
+**What it is:** Secondary characters or subplots reflecting the protagonist’s
+core dilemma.
 
 **Why it matters:** Reinforces theme without direct exposition.
 
@@ -176,7 +197,8 @@ This guide explains the built-in narrative techniques used by Narrative Engine. 
 
 ## Ticking Clock
 
-**What it is:** Time pressure that forces decisions and raises consequence density.
+**What it is:** Time pressure that forces decisions and raises consequence
+density.
 
 **Why it matters:** Converts passive intention into active dramatic behavior.
 
@@ -188,7 +210,8 @@ This guide explains the built-in narrative techniques used by Narrative Engine. 
 
 ## Minimal Exposition
 
-**What it is:** Delivering only essential background, as late as possible, through dramatic action.
+**What it is:** Delivering only essential background, as late as possible,
+through dramatic action.
 
 **Why it matters:** Preserves momentum and respects audience inference.
 
@@ -202,7 +225,8 @@ This guide explains the built-in narrative techniques used by Narrative Engine. 
 
 **What it is:** Characters advance plot through choices, not coincidence.
 
-**Why it matters:** Agency creates ownership, accountability, and stronger emotional investment.
+**Why it matters:** Agency creates ownership, accountability, and stronger
+emotional investment.
 
 **How to use in this repo:**
 
@@ -212,9 +236,11 @@ This guide explains the built-in narrative techniques used by Narrative Engine. 
 
 ## Theme Threading
 
-**What it is:** Repeating thematic question through plot, dialogue, visuals, and character arcs.
+**What it is:** Repeating thematic question through plot, dialogue, visuals, and
+character arcs.
 
-**Why it matters:** Turns events into meaning and gives narrative a coherent identity.
+**Why it matters:** Turns events into meaning and gives narrative a coherent
+identity.
 
 **How to use in this repo:**
 

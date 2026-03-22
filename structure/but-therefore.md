@@ -12,4 +12,5 @@ Write the story as alternating consequence links:
 
 ## Quality Test
 
-If you can replace a link with "and then," causality is weak. Strengthen decisions, tradeoffs, or opposition.
+If you can replace a link with "and then," causality is weak. Strengthen
+decisions, tradeoffs, or opposition.

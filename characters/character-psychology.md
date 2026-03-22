@@ -12,4 +12,5 @@ Use this file to connect behavior to internal logic.
 
 ## Application Tip
 
-Whenever a scene feels emotionally flat, inspect whether a trigger-defense-cost loop is active.
+Whenever a scene feels emotionally flat, inspect whether a trigger-defense-cost
+loop is active.

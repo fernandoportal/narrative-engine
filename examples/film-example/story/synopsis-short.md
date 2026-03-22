@@ -1,3 +1,15 @@
-Elena Rojas, once celebrated for designing autonomous freight routes, lives in quiet exile after a systems failure killed two workers years earlier. When weather satellites detect a toxic storm accelerating toward Arrecife, the only evacuation path is an obsolete rail corridor the city abandoned for cost reasons.
+# Short Synopsis
 
-Facing political denial, sabotaged infrastructure, and a community that blames her for past tragedy, Elena assembles a night crew of former rivals and overlooked workers. As the storm closes in, each repair exposes old guilt and current corruption. Elena finally chooses transparency over control, broadcasting the true risk to force action. The final train leaves at dawn as she remains behind to manually clear the last junction, redefining her legacy through accountability.
+Elena Rojas, once celebrated for designing autonomous freight routes, lives in
+quiet exile after a systems failure killed two workers years earlier. When
+weather satellites detect a toxic storm accelerating toward Arrecife, the only
+evacuation path is an obsolete rail corridor the city abandoned for cost
+reasons.
+
+Facing political denial, sabotaged infrastructure, and a community that blames
+her for past tragedy, Elena assembles a night crew of former rivals and
+overlooked workers. As the storm closes in, each repair exposes old guilt and
+current corruption. Elena finally chooses transparency over control,
+broadcasting the true risk to force action. The final train leaves at dawn as
+she remains behind to manually clear the last junction, redefining her legacy
+through accountability.

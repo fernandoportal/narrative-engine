@@ -2,7 +2,8 @@
 
 ## Logline
 
-A routine case reveals evidence of coordinated manipulation, forcing reluctant collaborators into an uneasy alliance.
+A routine case reveals evidence of coordinated manipulation, forcing reluctant
+collaborators into an uneasy alliance.
 
 ## A-Story Beats
 

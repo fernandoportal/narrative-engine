@@ -2,7 +2,8 @@
 
 ## Logline
 
-The team infiltrates a restricted data network while external pressure turns one member into a liability.
+The team infiltrates a restricted data network while external pressure turns one
+member into a liability.
 
 ## A-Story Beats
 

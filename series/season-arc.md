@@ -2,7 +2,8 @@
 
 ## Season Premise
 
-A team of former insiders exposes a city-scale deception while confronting the cost of public truth.
+A team of former insiders exposes a city-scale deception while confronting the
+cost of public truth.
 
 ## Season Question
 

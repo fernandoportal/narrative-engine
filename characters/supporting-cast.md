@@ -14,4 +14,5 @@ Supporting characters should perform narrative labor:
 - Witness who carries moral cost
 - Catalyst who introduces risk
 
-Avoid interchangeable supporting roles. Give each character a distinct function and pressure point.
+Avoid interchangeable supporting roles. Give each character a distinct function
+and pressure point.

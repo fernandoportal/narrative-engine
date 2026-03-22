@@ -2,7 +2,9 @@
 
 **Write stories like software.**
 
-A modular, Git-based storytelling framework for building films, series, graphic novels, and story-driven games with structure, version control, screenplay support, and AI collaboration.
+A modular, Git-based storytelling framework for building films, series, graphic
+novels, and story-driven games with structure, version control, screenplay
+support, and AI collaboration.
 
 ## What if you could write films like code?
 
@@ -36,7 +38,8 @@ If this is your first time opening Narrative Engine, start here:
 - `onboarding/FIRST_STORY_AI.md` - protocol for AI assistants
 - `onboarding/ANTIGRAVITY_PROMPTS.md` - copy-paste prompts for first use
 
-This onboarding flow gets you from blank page to first scene in under 10 minutes.
+This onboarding flow gets you from blank page to first scene in under 10
+minutes.
 
 ## 🧰 Recommended tools
 
@@ -49,13 +52,15 @@ It is well-suited for:
 - editing project files
 - navigating the repository structure
 - generating and refining story content
-- working with AI using structured context from `story/`, `characters/`, `structure/`, and `screenplay/`
+- working with AI using structured context from `story/`, `characters/`,
+  `structure/`, and `screenplay/`
 
 Antigravity acts as both your writing environment and your AI collaborator.
 
 ### 🧑‍💻 Visual Studio Code (optional)
 
-Visual Studio Code is a strong optional setup if you prefer a traditional editor workflow.
+Visual Studio Code is a strong optional setup if you prefer a traditional editor
+workflow.
 
 Use it for:
 
@@ -83,7 +88,8 @@ For VS Code users:
 - The repository provides the modular structure.
 - VS Code extensions improve editing quality when you use VS Code.
 
-This setup allows you to build stories modularly, maintain structure, and collaborate effectively with AI in a single workflow.
+This setup allows you to build stories modularly, maintain structure, and
+collaborate effectively with AI in a single workflow.
 
 ## How it works
 
@@ -125,7 +131,8 @@ This leads to:
 
 ## Why This Exists
 
-Most narrative projects still live in one large document that becomes hard to revise, share, and scale.
+Most narrative projects still live in one large document that becomes hard to
+revise, share, and scale.
 
 Narrative Engine treats storytelling like system design:
 
@@ -134,14 +141,19 @@ Narrative Engine treats storytelling like system design:
 - keep continuity explicit
 - collaborate with humans and AI without losing intent
 
-The result is a production-ready structure that supports early ideation, rewrites, pitch development, and delivery.
+The result is a production-ready structure that supports early ideation,
+rewrites, pitch development, and delivery.
 
 ## Core Ideas
 
-- **Modular storytelling:** Separate story, characters, structure, screenplay, art, trailer, and pitch assets.
-- **Versioned narrative design:** Track decisions and rewrites through Git history.
-- **AI-friendly architecture:** Clear source-of-truth files enable safer, higher-quality AI assistance.
-- **Production continuity:** Keep narrative logic, thematic intent, and visual identity synchronized.
+- **Modular storytelling:** Separate story, characters, structure, screenplay,
+  art, trailer, and pitch assets.
+- **Versioned narrative design:** Track decisions and rewrites through Git
+  history.
+- **AI-friendly architecture:** Clear source-of-truth files enable safer,
+  higher-quality AI assistance.
+- **Production continuity:** Keep narrative logic, thematic intent, and visual
+  identity synchronized.
 
 ## Supported Project Types
 
@@ -186,7 +198,8 @@ narrative-engine/
 6. Prepare outward-facing materials in `pitch/`, `trailer/`, and `art/`.
 7. Track all meaningful narrative decisions in `CHANGELOG.md`.
 
-Featured example: `examples/full-film-mini/` (compact end-to-end workflow from premise to opening scene).
+Featured example: `examples/full-film-mini/` (compact end-to-end workflow from
+premise to opening scene).
 
 ## Suggested Branch Strategy
 
@@ -216,7 +229,8 @@ Examples:
 
 ## AI Collaboration
 
-Narrative Engine is designed for AI-assisted workflows. Keep edits modular and grounded in source-of-truth files.
+Narrative Engine is designed for AI-assisted workflows. Keep edits modular and
+grounded in source-of-truth files.
 
 - Read `AI_COLLABORATION.md` before using assistants.
 - Ask AI to modify only specific modules unless a full rewrite is requested.
@@ -225,8 +239,10 @@ Narrative Engine is designed for AI-assisted workflows. Keep edits modular and g
 
 ## File Formats
 
-- **Markdown (`.md`)**: planning, strategy, structure, worldbuilding, production docs.
-- **Fountain (`.fountain`)**: screenplay drafting in plain text, compatible with many script tools.
+- **Markdown (`.md`)**: planning, strategy, structure, worldbuilding, production
+  docs.
+- **Fountain (`.fountain`)**: screenplay drafting in plain text, compatible with
+  many script tools.
 
 ## Who This Is For
 
@@ -241,39 +257,52 @@ Narrative Engine is designed for AI-assisted workflows. Keep edits modular and g
 1. Read [`PROJECT_BIBLE.md`](PROJECT_BIBLE.md).
 2. Read [`STORY_TECHNIQUES.md`](STORY_TECHNIQUES.md).
 3. Read [`AI_COLLABORATION.md`](AI_COLLABORATION.md).
-4. Follow [`onboarding/README.md`](onboarding/README.md) for first-use setup in Antigravity.
+4. Follow [`onboarding/README.md`](onboarding/README.md) for first-use setup in
+   Antigravity.
 5. Copy template files from `templates/` into your working modules.
-6. Explore `examples/full-film-mini/` for a compact end-to-end example from premise to scene.
+6. Explore `examples/full-film-mini/` for a compact end-to-end example from
+   premise to scene.
 7. Start with `story/logline.md` and commit your first concept baseline.
 
 ## How to Use Narrative Engine
 
-Use this workflow to move from idea to production-ready draft with minimal confusion.
+Use this workflow to move from idea to production-ready draft with minimal
+confusion.
 
 1. **Define your logline** in `story/logline.md`.
-2. **Write short and long synopsis** in `story/synopsis-short.md` and `story/synopsis-long.md`.
-3. **Build core characters** in `characters/protagonist.md`, `characters/antagonist.md`, and `characters/character-psychology.md` (wound, want, need, arc).
+2. **Write short and long synopsis** in `story/synopsis-short.md` and
+   `story/synopsis-long.md`.
+3. **Build core characters** in `characters/protagonist.md`,
+   `characters/antagonist.md`, and `characters/character-psychology.md` (wound,
+   want, need, arc).
 4. **Create the beat sheet** in `structure/beat-sheet.md`.
 5. **Apply cause-and-effect logic** in `structure/but-therefore.md`.
-6. **Define act structure** in `structure/three-act-structure.md` (or `structure/save-the-cat.md`).
+6. **Define act structure** in `structure/three-act-structure.md` (or
+   `structure/save-the-cat.md`).
 7. **Create a scene list** in `structure/scene-list.md`.
 8. **Write key scenes in Fountain** under `screenplay/selected-scenes/`.
-9. **Assemble full screenplay drafts** in `screenplay/draft-v1.fountain` and `screenplay/draft-v2.fountain`.
-10. **Iterate with intent**: revise structure first, then scenes, then dialogue polish.
+9. **Assemble full screenplay drafts** in `screenplay/draft-v1.fountain` and
+   `screenplay/draft-v2.fountain`.
+10. **Iterate with intent**: revise structure first, then scenes, then dialogue
+    polish.
 
-Practical rule: if a scene is difficult to write, step back to `structure/` and verify objective, conflict, and consequence first.
+Practical rule: if a scene is difficult to write, step back to `structure/` and
+verify objective, conflict, and consequence first.
 
 ## Recommended Workflow
 
 Pipeline view:
 
+<!-- markdownlint-disable-next-line MD013 -->
 `idea -> logline -> synopsis -> characters -> structure -> scenes -> screenplay -> iteration`
 
-Use this sequence as your default. Skip steps only when you are intentionally doing exploratory writing.
+Use this sequence as your default. Skip steps only when you are intentionally
+doing exploratory writing.
 
 ## Versioning Your Story (Git Workflow)
 
-Treat narrative decisions like software changes: explicit, reversible, and traceable.
+Treat narrative decisions like software changes: explicit, reversible, and
+traceable.
 
 ### Suggested Branches
 
@@ -298,7 +327,8 @@ git commit -m "rewrite: improve emotional climax"
 
 ## Examples of Usage
 
-A compact end-to-end example showing how to go from premise to scene is available in `examples/full-film-mini/`.
+A compact end-to-end example showing how to go from premise to scene is
+available in `examples/full-film-mini/`.
 
 ### Example 1: Film Project
 
@@ -315,12 +345,14 @@ A compact end-to-end example showing how to go from premise to scene is availabl
 ### Example 3: AI-Assisted Pass
 
 - Feed AI your `story/synopsis-long.md`, `characters/`, and `structure/` files.
-- Request a targeted improvement (for example, midpoint tension or scene clarity).
+- Request a targeted improvement (for example, midpoint tension or scene
+  clarity).
 - Apply accepted changes module-by-module and log major decisions.
 
 ## Using AI with Narrative Engine
 
-AI tools (ChatGPT, Codex, and similar assistants) work best when you provide focused context and clear boundaries.
+AI tools (ChatGPT, Codex, and similar assistants) work best when you provide
+focused context and clear boundaries.
 
 ### 1. Always Provide Context
 
@@ -340,7 +372,8 @@ Prefer requests like:
 
 ### 3. Avoid Blind Full Rewrites
 
-Do not ask AI to rewrite the entire project without constraints. Large blind rewrites usually break continuity, tone, and setup/payoff logic.
+Do not ask AI to rewrite the entire project without constraints. Large blind
+rewrites usually break continuity, tone, and setup/payoff logic.
 
 ### 4. Example Prompt
 
@@ -355,7 +388,8 @@ Now improve the opening scene with stronger emotional tension.
 
 ### 5. Use the Collaboration Standard
 
-Follow [`AI_COLLABORATION.md`](AI_COLLABORATION.md) as the operating reference for continuity, authority files, and change protocol.
+Follow [`AI_COLLABORATION.md`](AI_COLLABORATION.md) as the operating reference
+for continuity, authority files, and change protocol.
 
 ## Best Practices
 
@@ -364,11 +398,13 @@ Follow [`AI_COLLABORATION.md`](AI_COLLABORATION.md) as the operating reference f
 - Use cause-and-effect logic (`BUT / THEREFORE`) to avoid episodic drift.
 - Write scenes incrementally, then merge into full drafts.
 - Use branches for experimentation and alternate versions.
-- Maintain consistency across `story/`, `characters/`, `structure/`, and `screenplay/`.
+- Maintain consistency across `story/`, `characters/`, `structure/`, and
+  `screenplay/`.
 
 ## Roadmap
 
-See [`TODO.md`](TODO.md) for planned improvements, integrations, and expansion packs.
+See [`TODO.md`](TODO.md) for planned improvements, integrations, and expansion
+packs.
 
 ## Author
 
@@ -377,7 +413,8 @@ Website: [https://valhallasolutions.net](https://valhallasolutions.net)
 
 ## Support This Project
 
-If Narrative Engine helps your work, you can support ongoing maintenance and improvements.
+If Narrative Engine helps your work, you can support ongoing maintenance and
+improvements.
 
 PayPal: `nando_408@hotmail.com`  
 Website: [https://valhallasolutions.net](https://valhallasolutions.net)

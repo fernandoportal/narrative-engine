@@ -11,4 +11,5 @@ Document the environment as a system the characters must survive.
 
 ## Practical Rule
 
-Any world rule that can alter character decisions belongs here and should be referenced by structure and screenplay files.
+Any world rule that can alter character decisions belongs here and should be
+referenced by structure and screenplay files.

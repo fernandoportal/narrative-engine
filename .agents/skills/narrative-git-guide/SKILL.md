@@ -13,7 +13,8 @@ This skill should:
 
 ## Use This Skill When
 
-- user says things like "save my narrative changes", "version this rewrite", or "create a branch for this"
+- user says things like "save my narrative changes", "version this rewrite", or
+  "create a branch for this"
 - user is adding or revising story files in Narrative Engine
 - user wants safe branching and version tracking without Git complexity
 
@@ -30,9 +31,11 @@ This skill should:
 ## Safe Git Rules (Mandatory)
 
 - Never run destructive commands unless user explicitly requests them.
-  - Forbidden by default: `git reset --hard`, `git push --force`, branch deletion commands
+  - Forbidden by default: `git reset --hard`, `git push --force`, branch
+    deletion commands
 - Never stage unrelated files.
-- If working tree has conflicts or unresolved merges, stop and explain safe next steps.
+- If working tree has conflicts or unresolved merges, stop and explain safe next
+  steps.
 - If branch creation fails, explain why and propose the safest fallback.
 
 ## File Classification Rules
@@ -50,8 +53,11 @@ Classify changed files from `git status --porcelain` by path:
 - Series updates:
   - `series/`
 - Major narrative direction changes:
-  - any update touching 2+ core modules (`story/`, `characters/`, `structure/`, `screenplay/`, `series/`)
-  - or changes to foundational files like `story/logline.md`, `story/synopsis-short.md`, `story/synopsis-long.md`, `structure/three-act-structure.md`
+  - any update touching 2+ core modules (`story/`, `characters/`, `structure/`,
+    `screenplay/`, `series/`)
+  - or changes to foundational files like `story/logline.md`,
+    `story/synopsis-short.md`, `story/synopsis-long.md`,
+    `structure/three-act-structure.md`
 
 ## Branch Decision Rules
 
@@ -110,7 +116,8 @@ Preferred examples:
 - `screenplay: improve opening scene tension`
 - `series: add season arc and episode guide`
 
-If changes span modules, choose the highest-impact scope and keep message specific.
+If changes span modules, choose the highest-impact scope and keep message
+specific.
 
 ## Command Workflow (Default)
 
@@ -178,13 +185,15 @@ After running commands, respond with:
 
 ### Example B: Act II rewrite
 
-- Change: `structure/beat-sheet.md`, `structure/midpoint.md`, `structure/all-is-lost.md`
+- Change: `structure/beat-sheet.md`, `structure/midpoint.md`,
+  `structure/all-is-lost.md`
 - Decision: create `structure/act2-rewrite`
 - Commit style: `structure: rewrite midpoint and all-is-lost`
 
 ### Example C: Alternate ending experiment
 
-- Change: ending scenes in `screenplay/selected-scenes/ending.fountain` + related beats
+- Change: ending scenes in `screenplay/selected-scenes/ending.fountain` +
+  related beats
 - Decision: create `rewrite/alt-ending-v1`
 - Commit style: `screenplay: test alternate ending payoff`
 
@@ -204,4 +213,5 @@ After running commands, respond with:
 - Prioritize continuity and modularity.
 - Keep commits aligned with narrative modules.
 - Prefer smaller, understandable commits over giant mixed commits.
-- If change affects premise or structure deeply, recommend a review checkpoint before merge.
+- If change affects premise or structure deeply, recommend a review checkpoint
+  before merge.

@@ -1,3 +1,5 @@
+# Synopsis Short
+
 This short synopsis should summarize your narrative in 1-2 concise paragraphs.
 
 Recommended contents:
@@ -7,4 +9,5 @@ Recommended contents:
 - midpoint or major escalation
 - final resolution and thematic landing
 
-Keep this file current as your north-star summary. If your structure changes, update this first.
+Keep this file current as your north-star summary. If your structure changes,
+update this first.

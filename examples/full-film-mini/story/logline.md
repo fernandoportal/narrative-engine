@@ -1,1 +1,5 @@
-When a chemical fog bank traps a hospital ship outside a dead harbor corridor, a suspended safety inspector must reactivate an abandoned lighthouse grid before sunrise, or hundreds of patients lose their only route to treatment.
+# Logline
+
+When a chemical fog bank traps a hospital ship outside a dead harbor corridor, a
+suspended safety inspector must reactivate an abandoned lighthouse grid before
+sunrise, or hundreds of patients lose their only route to treatment.

@@ -27,4 +27,5 @@ Brief protagonist, antagonist, and key supporting role summaries.
 
 ## Proof of Engine
 
-Short note on structure strength: midpoint shift, payoff design, and thematic closure.
+Short note on structure strength: midpoint shift, payoff design, and thematic
+closure.

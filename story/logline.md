@@ -1,3 +1,5 @@
+# Logline
+
 Use this file to maintain the single source-of-truth logline for your project.
 
 A strong logline includes:
@@ -7,5 +9,5 @@ A strong logline includes:
 - clear objective
 - meaningful stakes and consequence
 
-Starter formula:
-When [inciting event], a [protagonist] must [goal] before [deadline], or [consequence].
+Starter formula: When [inciting event], a [protagonist] must [goal] before
+[deadline], or [consequence].

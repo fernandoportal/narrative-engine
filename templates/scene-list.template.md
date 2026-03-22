@@ -1,10 +1,10 @@
 # Scene List Template
 
-| # | Scene Heading | Objective | Conflict | Decision | Consequence | Setup/Payoff |
-|---|---|---|---|---|---|---|
-| 1 | INT./EXT. LOCATION - TIME | | | | | |
-| 2 | INT./EXT. LOCATION - TIME | | | | | |
-| 3 | INT./EXT. LOCATION - TIME | | | | | |
+| #   | Scene Heading             | Objective | Conflict | Decision | Consequence | Setup/Payoff |
+| --- | ------------------------- | --------- | -------- | -------- | ----------- | ------------ |
+| 1   | INT./EXT. LOCATION - TIME |           |          |          |             |              |
+| 2   | INT./EXT. LOCATION - TIME |           |          |          |             |              |
+| 3   | INT./EXT. LOCATION - TIME |           |          |          |             |              |
 
 ## Coverage Checklist
 

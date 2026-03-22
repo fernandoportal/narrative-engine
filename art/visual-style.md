@@ -2,7 +2,8 @@
 
 ## Visual Thesis
 
-Grounded cinematic realism with high-contrast environments where institutional spaces feel rigid and human spaces feel improvised.
+Grounded cinematic realism with high-contrast environments where institutional
+spaces feel rigid and human spaces feel improvised.
 
 ## Palette
 

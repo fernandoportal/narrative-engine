@@ -4,7 +4,8 @@ This mini example shows how to use Narrative Engine for a feature film concept.
 
 ## Premise
 
-A discredited transit engineer must hijack a decommissioned desert rail line to evacuate a town before a toxic storm front arrives.
+A discredited transit engineer must hijack a decommissioned desert rail line to
+evacuate a town before a toxic storm front arrives.
 
 ## Included Modules
 
@@ -13,4 +14,5 @@ A discredited transit engineer must hijack a decommissioned desert rail line to 
 - `structure/`: compact beat sheet
 - `screenplay/`: opening scene in Fountain format
 
-Use this as a reference for scope and file granularity, then adapt to your own project.
+Use this as a reference for scope and file granularity, then adapt to your own
+project.

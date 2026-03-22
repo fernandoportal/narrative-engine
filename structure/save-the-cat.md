@@ -16,4 +16,5 @@ Use this file when you want a beat-precise pacing map.
 
 ## Practical Use
 
-After drafting, verify each beat exists in your `structure/beat-sheet.md` and is visible in screenplay scenes.
+After drafting, verify each beat exists in your `structure/beat-sheet.md` and is
+visible in screenplay scenes.

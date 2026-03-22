@@ -1,6 +1,7 @@
 # Protagonist Guide
 
-Use this file to define your central character with enough precision to drive consistent scenes.
+Use this file to define your central character with enough precision to drive
+consistent scenes.
 
 ## Core Fields
 
@@ -17,4 +18,5 @@ Use this file to define your central character with enough precision to drive co
 - Crisis decision
 - Final value-based action
 
-A strong protagonist arc changes strategy because inner belief changes, not just because events escalate.
+A strong protagonist arc changes strategy because inner belief changes, not just
+because events escalate.

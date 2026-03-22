@@ -1,6 +1,7 @@
 # Emotional Mirroring
 
-Emotional mirrors are characters or scenes that reflect the protagonist's hidden dilemma.
+Emotional mirrors are characters or scenes that reflect the protagonist's hidden
+dilemma.
 
 ## How to Build
 

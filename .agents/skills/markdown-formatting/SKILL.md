@@ -5,17 +5,91 @@ description: Format and fix markdown files to avoid linting errors like MD022
 
 # Formatting Markdown Files
 
-When creating or editing markdown files in this project (e.g. character profiles, story scenes, project documentation), it is essential to follow standard markdown linting rules to maintain a uniform and clean structure.
+When creating or editing markdown files in this project (e.g. character
+profiles, story scenes, project documentation), it is essential to follow
+standard markdown linting rules to maintain a uniform and clean structure.
 
-## Core Rules to Remember
+## All Markdownlint Rules to Follow
 
-- **MD022**: Headings (e.g., `#`, `##`) must be surrounded by blank lines. Do not place text immediately under a heading without an empty line between them.
-- Ensure consistent spacing between lists and paragraphs.
-- Keep the narrative files easy to read in plain text.
+When creating or editing any markdown file, you must adhere to the following
+`markdownlint` rules. Be highly proactive in avoiding these linting errors:
+
+- **MD001** heading-increment - Heading levels should only increment by one
+  level at a time
+- **MD003** heading-style - Heading style
+- **MD004** ul-style - Unordered list style
+- **MD005** list-indent - Inconsistent indentation for list items at the same
+  level
+- **MD007** ul-indent - Unordered list indentation
+- **MD009** no-trailing-spaces - Trailing spaces
+- **MD010** no-hard-tabs - Hard tabs
+- **MD011** no-reversed-links - Reversed link syntax
+- **MD012** no-multiple-blanks - Multiple consecutive blank lines
+- **MD013** line-length - Line length (Keep lines under 80 characters where
+  possible, except for long links/URLs)
+- **MD014** commands-show-output - Dollar signs used before commands without
+  showing output
+- **MD018** no-missing-space-atx - No space after hash on atx style heading
+- **MD019** no-multiple-space-atx - Multiple spaces after hash on atx style
+  heading
+- **MD020** no-missing-space-closed-atx - No space inside hashes on closed atx
+  style heading
+- **MD021** no-multiple-space-closed-atx - Multiple spaces inside hashes on
+  closed atx style heading
+- **MD022** blanks-around-headings - Headings should be surrounded by blank
+  lines
+- **MD023** heading-start-left - Headings must start at the beginning of the
+  line
+- **MD024** no-duplicate-heading - Multiple headings with the same content
+- **MD025** single-title/single-h1 - Multiple top level headings in the same
+  document
+- **MD026** no-trailing-punctuation - Trailing punctuation in heading
+- **MD027** no-multiple-space-blockquote - Multiple spaces after blockquote
+  symbol
+- **MD028** no-blanks-blockquote - Blank line inside blockquote
+- **MD029** ol-prefix - Ordered list item prefix
+- **MD030** list-marker-space - Spaces after list markers
+- **MD031** blanks-around-fences - Fenced code blocks should be surrounded by
+  blank lines
+- **MD032** blanks-around-lists - Lists should be surrounded by blank lines
+- **MD033** no-inline-html - Inline HTML
+- **MD034** no-bare-urls - Bare URL used
+- **MD035** hr-style - Horizontal rule style
+- **MD036** no-emphasis-as-heading - Emphasis used instead of a heading
+- **MD037** no-space-in-emphasis - Spaces inside emphasis markers
+- **MD038** no-space-in-code - Spaces inside code span elements
+- **MD039** no-space-in-links - Spaces inside link text
+- **MD040** fenced-code-language - Fenced code blocks should have a language
+  specified
+- **MD041** first-line-heading/first-line-h1 - First line in file should be a
+  top level heading
+- **MD042** no-empty-links - No empty links
+- **MD043** required-headings - Required heading structure
+- **MD044** proper-names - Proper names should have the correct capitalization
+- **MD045** no-alt-text - Images should have alternate text (alt text)
+- **MD046** code-block-style - Code block style
+- **MD047** single-trailing-newline - Files should end with a single newline
+  character
+- **MD048** code-fence-style - Code fence style
+- **MD049** emphasis-style - Emphasis style should be consistent
+- **MD050** strong-style - Strong style should be consistent
+- **MD051** link-fragments - Link fragments should be valid
+- **MD052** reference-links-images - Reference links and images should use a
+  label that is defined
+- **MD053** link-image-reference-definitions - Link and image reference
+  definitions should be needed
+- **MD054** link-image-style - Link and image style
+- **MD055** table-pipe-style - Table pipe style
+- **MD056** table-column-count - Table column count
+- **MD058** blanks-around-tables - Tables should be surrounded by blank lines
+- **MD059** descriptive-link-text - Link text should be descriptive
+- **MD060** table-column-style - Table column style
 
 ## Validating and Fixing
 
-You can fix formatting issues automatically by running the `markdownlint-cli2` tool. Whenever you create new narrative content, you may run this tool as a final step to ensure structural integrity across the repository.
+You can fix formatting issues automatically by running the `markdownlint-cli2`
+tool. Whenever you create new narrative content, you may run this tool as a
+final step to ensure structural integrity across the repository.
 
 ```bash
 npx -y markdownlint-cli2 --fix "**/*.md" "#node_modules"

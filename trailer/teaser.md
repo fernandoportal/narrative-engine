@@ -2,7 +2,8 @@
 
 ## Objective
 
-Deliver a high-impact first impression focused on tone and central question rather than plot detail.
+Deliver a high-impact first impression focused on tone and central question
+rather than plot detail.
 
 ## Duration
 

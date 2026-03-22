@@ -3,10 +3,10 @@
 ## Core Dynamics Matrix
 
 | Character A | Character B | Public Dynamic | Private Dynamic | Source of Tension | Evolution |
-|---|---|---|---|---|---|
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| ----------- | ----------- | -------------- | --------------- | ----------------- | --------- |
+|             |             |                |                 |                   |           |
+|             |             |                |                 |                   |           |
+|             |             |                |                 |                   |           |
 
 ## Notes
 

@@ -1,6 +1,7 @@
 # Antagonist Guide
 
-The antagonist is not only a villain; it is the force that challenges the protagonist's worldview.
+The antagonist is not only a villain; it is the force that challenges the
+protagonist's worldview.
 
 ## Design Questions
 
@@ -11,4 +12,5 @@ The antagonist is not only a villain; it is the force that challenges the protag
 
 ## Practical Rule
 
-Track antagonist pressure at regular intervals so tension does not disappear between major turns.
+Track antagonist pressure at regular intervals so tension does not disappear
+between major turns.

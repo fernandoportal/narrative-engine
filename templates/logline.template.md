@@ -2,7 +2,8 @@
 
 ## One-Sentence Logline
 
-When [inciting event], a [flawed protagonist] must [goal] before [deadline], or [high-stakes consequence].
+When [inciting event], a [flawed protagonist] must [goal] before [deadline], or
+[high-stakes consequence].
 
 ## Clarifying Notes
 
