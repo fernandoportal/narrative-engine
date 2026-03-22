@@ -1,6 +1,7 @@
 This short synopsis should summarize your narrative in 1-2 concise paragraphs.
 
 Recommended contents:
+
 - setup and protagonist context
 - catalyst and central conflict
 - midpoint or major escalation

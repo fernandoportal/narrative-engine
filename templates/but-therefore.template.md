@@ -1,6 +1,7 @@
 # But / Therefore Causality Template
 
 ## Causal Chain
+
 1. [Initial state]
 2. BUT [disruption]
 3. THEREFORE [response]
@@ -10,5 +11,6 @@
 7. THEREFORE [final action]
 
 ## Integrity Check
+
 - Remove any step that begins with "and then".
 - Ensure each "therefore" is an active choice, not coincidence.

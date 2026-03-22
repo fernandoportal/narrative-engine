@@ -1,6 +1,7 @@
 # Narrative Engine Roadmap
 
 ## v1 - Initial Open Source Release (Current)
+
 - [x] Publish modular repository architecture for narrative projects
 - [x] Add reusable templates for story, structure, characters, and screenplay
 - [x] Add film, series, and graphic novel example mini-projects
@@ -9,6 +10,7 @@
 - [x] Provide starter files for pitch, trailer, and visual development
 
 ## v2 - Workflow Expansion
+
 - [ ] Add branch workflow playbooks for solo creators vs writers' rooms
 - [ ] Add continuity checklist templates for rewrite passes
 - [ ] Add conflict-matrix generator template for ensemble casts
@@ -17,6 +19,7 @@
 - [ ] Add exporter guidance for Fountain to PDF/Final Draft pipelines
 
 ## Future Ideas
+
 - [ ] Optional CLI helper for scaffolding new project variants
 - [ ] AI prompt packs for adaptation (film <-> series <-> graphic novel)
 - [ ] Structured JSON schema for machine-readable narrative state

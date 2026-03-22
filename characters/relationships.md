@@ -3,6 +3,7 @@
 Relationships are delivery systems for conflict, vulnerability, and theme.
 
 ## Track for Each Key Pair
+
 - public relationship vs private truth
 - recurring conflict pattern
 - unspoken need

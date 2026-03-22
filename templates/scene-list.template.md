@@ -7,6 +7,7 @@
 | 3 | INT./EXT. LOCATION - TIME | | | | | |
 
 ## Coverage Checklist
+
 - Every scene changes the state of the story.
 - Every major setup has a planned payoff.
 - At least one scene per act advances the theme directly.

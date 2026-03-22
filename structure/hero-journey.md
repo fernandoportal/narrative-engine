@@ -3,7 +3,9 @@
 Use this structure when your story emphasizes identity transformation through threshold crossings.
 
 ## Stage Mapping Guidance
+
 For each stage, document:
+
 - concrete event
 - internal shift
 - external cost

@@ -3,7 +3,9 @@
 All notable changes to this project will be documented in this file.
 
 ## [v1.0.0] - 2026-03-21
+
 ### Added
+
 - Initial open source release of Narrative Engine
 - Modular repository architecture for story development
 - Core directories for story, characters, structure, screenplay, series, trailer, art, and pitch

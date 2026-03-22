@@ -3,9 +3,11 @@
 This mini example shows how to use Narrative Engine for a feature film concept.
 
 ## Premise
+
 A discredited transit engineer must hijack a decommissioned desert rail line to evacuate a town before a toxic storm front arrives.
 
 ## Included Modules
+
 - `story/`: logline and short synopsis
 - `characters/`: protagonist profile
 - `structure/`: compact beat sheet
