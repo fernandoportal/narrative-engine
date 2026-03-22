@@ -100,6 +100,105 @@ Narrative Engine is designed for AI-assisted workflows. Keep edits modular and g
 4. Copy template files from `templates/` into your working modules.
 5. Start with `story/logline.md` and commit your first concept baseline.
 
+## How to Use Narrative Engine
+Use this workflow to move from idea to production-ready draft with minimal confusion.
+
+1. **Define your logline** in `story/logline.md`.
+2. **Write short and long synopsis** in `story/synopsis-short.md` and `story/synopsis-long.md`.
+3. **Build core characters** in `characters/protagonist.md`, `characters/antagonist.md`, and `characters/character-psychology.md` (wound, want, need, arc).
+4. **Create the beat sheet** in `structure/beat-sheet.md`.
+5. **Apply cause-and-effect logic** in `structure/but-therefore.md`.
+6. **Define act structure** in `structure/three-act-structure.md` (or `structure/save-the-cat.md`).
+7. **Create a scene list** in `structure/scene-list.md`.
+8. **Write key scenes in Fountain** under `screenplay/selected-scenes/`.
+9. **Assemble full screenplay drafts** in `screenplay/draft-v1.fountain` and `screenplay/draft-v2.fountain`.
+10. **Iterate with intent**: revise structure first, then scenes, then dialogue polish.
+
+Practical rule: if a scene is difficult to write, step back to `structure/` and verify objective, conflict, and consequence first.
+
+## Recommended Workflow
+Pipeline view:
+
+`idea -> logline -> synopsis -> characters -> structure -> scenes -> screenplay -> iteration`
+
+Use this sequence as your default. Skip steps only when you are intentionally doing exploratory writing.
+
+## Versioning Your Story (Git Workflow)
+Treat narrative decisions like software changes: explicit, reversible, and traceable.
+
+### Suggested Branches
+- `main` -> stable version
+- `feature/rewrite-act-1`
+- `feature/alt-ending`
+- `feature/series-adaptation`
+- `rewrite/dialogue-pass`
+
+### Example Commands
+```bash
+git checkout -b feature/alt-ending
+git commit -m "rewrite: improve emotional climax"
+```
+
+### Why Versioning Helps Story Development
+- Explore alternate endings without destabilizing your main draft.
+- Experiment safely with structure, tone, or format adaptations.
+- Keep a reliable decision history for collaborators and future rewrites.
+
+## Examples of Usage
+### Example 1: Film Project
+- Define premise in `story/logline.md`.
+- Build protagonist arc in `characters/protagonist.md`.
+- Translate into structure using `structure/beat-sheet.md`.
+
+### Example 2: Series Project
+- Define season engine in `series/season-arc.md`.
+- Break episode progression in `series/episode-guide.md`.
+- Expand each episode in `series/episodes/episode-01.md` and beyond.
+
+### Example 3: AI-Assisted Pass
+- Feed AI your `story/synopsis-long.md`, `characters/`, and `structure/` files.
+- Request a targeted improvement (for example, midpoint tension or scene clarity).
+- Apply accepted changes module-by-module and log major decisions.
+
+## Using AI with Narrative Engine
+AI tools (ChatGPT, Codex, and similar assistants) work best when you provide focused context and clear boundaries.
+
+### 1. Always Provide Context
+At minimum, include:
+- `story/synopsis-long.md`
+- relevant files in `characters/`
+- relevant files in `structure/`
+
+### 2. Ask for Targeted Changes
+Prefer requests like:
+- improve a specific scene
+- refine dialogue for one character
+- expand one beat into scene options
+
+### 3. Avoid Blind Full Rewrites
+Do not ask AI to rewrite the entire project without constraints. Large blind rewrites usually break continuity, tone, and setup/payoff logic.
+
+### 4. Example Prompt
+```text
+Read:
+- story/synopsis-long.md
+- characters/protagonist.md
+- structure/beat-sheet.md
+
+Now improve the opening scene with stronger emotional tension.
+```
+
+### 5. Use the Collaboration Standard
+Follow [`AI_COLLABORATION.md`](AI_COLLABORATION.md) as the operating reference for continuity, authority files, and change protocol.
+
+## Best Practices
+- Build structure before writing the full screenplay.
+- Keep files modular and purpose-specific.
+- Use cause-and-effect logic (`BUT / THEREFORE`) to avoid episodic drift.
+- Write scenes incrementally, then merge into full drafts.
+- Use branches for experimentation and alternate versions.
+- Maintain consistency across `story/`, `characters/`, `structure/`, and `screenplay/`.
+
 ## Roadmap
 See [`TODO.md`](TODO.md) for planned improvements, integrations, and expansion packs.
 
