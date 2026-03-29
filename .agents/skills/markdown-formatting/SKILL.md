@@ -25,8 +25,10 @@ When creating or editing any markdown file, you must adhere to the following
 - **MD010** no-hard-tabs - Hard tabs
 - **MD011** no-reversed-links - Reversed link syntax
 - **MD012** no-multiple-blanks - Multiple consecutive blank lines
-- **MD013** line-length - Line length (Keep lines under 80 characters where
-  possible, except for long links/URLs)
+- **MD013** line-length - Line length (**CRITICAL AI INSTRUCTION:** AI
+  assistants MUST hard-wrap all generated or edited plain text at 80
+  characters. Do not write single continuous long lines. The ONLY exceptions
+  are long links/URLs or specific markdown tables that cannot be wrapped.)
 - **MD014** commands-show-output - Dollar signs used before commands without
   showing output
 - **MD018** no-missing-space-atx - No space after hash on atx style heading

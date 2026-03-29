@@ -2,14 +2,23 @@
 
 Use this guide directly in Antigravity. Keep it simple and move fast.
 
-## Step 1 - Story idea (1 sentence)
+## Step 1 - Setup your Repository
+
+1. If you don't have a GitHub account, go to [GitHub.com](https://github.com)
+   and sign up for free.
+2. Go to the Narrative Engine repository page and click the **"Fork"** button
+   (or "Use this template"). This creates your own copy of the project where
+   you can safely save your stories.
+3. Open your new Fork in Antigravity.
+
+## Step 2 - Story idea (1 sentence)
 
 Open `story/logline.md`.
 
 Write one sentence using this format:
 `When [event], a [protagonist] must [goal] before [deadline], or [consequence].`
 
-## Step 2 - Protagonist
+## Step 3 - Protagonist
 
 Open `characters/protagonist.md`.
 
@@ -24,7 +33,7 @@ Fill these fields:
 
 Keep each line short.
 
-## Step 3 - Simple structure
+## Step 4 - Simple structure
 
 Open `structure/beat-sheet.md`.
 
@@ -36,7 +45,7 @@ Write only these beats:
 
 Do not over-plan. Just lock the spine.
 
-## Step 4 - First scene
+## Step 5 - First scene
 
 Open `screenplay/selected-scenes/opening.fountain`.
 
@@ -47,7 +56,7 @@ Write one short scene:
 - brief dialogue exchange
 - clear tension
 
-## Step 5 - Save version
+## Step 6 - Save version
 
 Ask your AI assistant: `save my narrative changes`
 

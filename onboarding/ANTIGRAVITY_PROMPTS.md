@@ -7,8 +7,9 @@ Copy and paste one of these prompts in Antigravity.
 Use this if you want AI to guide you step by step.
 
 ```text
-Use `onboarding/FIRST_STORY_AI.md` as your protocol.
-Guide me interactively to create my first story in less than 10 minutes.
+Use the `onboarding-guide` skill and `onboarding/FIRST_STORY_AI.md`.
+Guide me interactively to set up my repository fork and create my first
+story in less than 10 minutes.
 Ask one thing at a time and wait for my answer.
 Always tell me exactly which file to edit.
 ```

@@ -29,6 +29,21 @@ No more disconnected prompts.
 
 You now have a working story system.
 
+## Setting up your Repository (GitHub)
+
+If you don't have a GitHub account or haven't made a copy of this repository
+yet, follow these steps before starting:
+
+1. **Create an account:** Go to [GitHub.com](https://github.com) and sign up
+   for free.
+2. **Fork this repository:** While logged in, go to the Narrative Engine
+   repository page and click the **"Fork"** button (or "Use this template").
+   This creates your own copy of the project where you can safely save all
+   your story ideas and track your changes. Forking is the best way to start
+   working with this framework!
+3. **Open in Antigravity:** Once you have your own fork, open it in
+   Antigravity to begin writing.
+
 ## First-Use Onboarding (Antigravity)
 
 If this is your first time opening Narrative Engine, start here:
